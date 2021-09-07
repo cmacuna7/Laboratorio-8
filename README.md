@@ -8,21 +8,21 @@ Integrantes: Acuña Marcelo, Robalino Johanna, Villacis Isaac
 
 * Objetivo General
 
-• Estudiar los circuitos RC y RL, verificar la relación que tienen los voltajes medidos con el multímetro y el osciloscopio utilizando una fuente de voltaje alterno. Mediante el uso de un simulador de circuitos electrónicos. Escribir los datos adquiridos en tablas y posteriormente analizar los resultados de acuerdo a la teoría vista en clases.
+Estudiar y determinar en forma experimental los valores medios y eficaces en un circuito de C.A. resistivo, con rectificador de media onda y con rectificador de onda completa. Conocer los instrumentos que miden estos valores (valor medio y valor eficaz).Todo esto mediante datos tomados de un simulador y con el uso de materiales adecuados para la demostracion como lo es el osciloscopio, multímetro Digital, etc. 
 
 * Objetivos Específicos 
 
-• Verificar el comportamiento de la bobina y el capacitor en circuitos DC.
+* Construir un circuito que muestre como se comporta una onda senoidal.
 
-• Verificar el comportamiento de la bobina y el capacitor en circuitos AC.
+* Obtener una visión más clara de como se interpreta una onda senoidal.
 
-• Verificar las combinaciones serie y paralelo de bobinas y capacitores.
+* Calcular los componentes de la onda senoidal y comparar con los resultados del simulador.
 
-• Familiarizarse con el uso de instrumentos de medida.
+* Conocer los instrumentos que mides estos valores (valor medio y valor eficaz). Verificar el valor de lafrecuencia.
+
+*Analizar y determinar en forma experimental los valores medios y eficaces en un circuito de corrientealterna (C.A.) resistivo, con rectificador de media onda y con rectificador de onda completa.
 
 **2. MARCO TEORICO**
-
-![image](https://user-images.githubusercontent.com/84789076/132266439-937880e0-0751-4da1-b41d-be15723ae433.png)
 
 
 
@@ -85,7 +85,12 @@ https://youtu.be/smtynY4UDNA
 
 **5. CONCLUCIONES**
 
-El osciloscopio va a tener mayor precisión que el multímetro debido a que el diseño de este fue creado para medir corrientes alternas. El uso y la manipulación del osciloscopio va a ser muy requerida, ya que gracias a este instrumento podremos encontrar valores como el valor eficaz, el valor pico, la frecuencia de la onda, etc.
+* Las ondas senoidales son patrones de ondas que matemáticamente pueden ser descritas mediante las funciones seno y coseno. Describen acertadamente eventos naturales y señales variables en el tiempo, tales como los voltajes generados por centrales eléctricas y luego utilizados en hogares, industrias y calles.
+
+* El osciloscopio va a tener mayor precisión que el multímetro debido a que el diseño de este fue creado para medir corrientes alternas. El uso y la manipulación del osciloscopio va a ser muy requerida, ya que gracias a este instrumento podremos encontrar valores como el valor eficaz, el valor pico, la frecuencia de la onda, etc.
+
+* Las características de amplitud y frecuencia son controladas mediante perillas, respetando tanto la forma de onda de las tres señales senoidales, como su amplitud simétrica con respecto a cero volts.
+
 
 **6. BIBLIOGRAFÍA**
 
