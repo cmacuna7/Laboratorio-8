@@ -85,7 +85,7 @@ https://youtu.be/smtynY4UDNA
 
 **5. CONCLUCIONES**
 
-
+El osciloscopio va a tener mayor precisión que el multímetro debido a que el diseño de este fue creado para medir corrientes alternas. El uso y la manipulación del osciloscopio va a ser muy requerida, ya que gracias a este instrumento podremos encontrar valores como el valor eficaz, el valor pico, la frecuencia de la onda, etc.
 
 **6. BIBLIOGRAFÍA**
 
