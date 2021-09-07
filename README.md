@@ -49,13 +49,13 @@ Estudiar y determinar en forma experimental los valores medios y eficaces en un 
 
 ¿Cuántas divisiones por cuadro abarca la amplitud pico de la señal de salida?
 
-3 cuadros por 2 picos
+2.5 Cuadros
 
 ¿En qué valor está posicionada la perilla VOLTS/DIV? Está ubicada en 3
 
 ¿Cuántas divisiones por cuadro abarca un ciclo completo de la señal de salida?
 
-3 cuadros
+4 cuadros
 
 ¿En qué valor está posicionada la perilla TIME/DIV? Esta ubicada en 1 ms
 
@@ -76,8 +76,8 @@ f: 2500 (Hz)
 7.5.8. Compare el voltaje medido en el punto 7.5.5. y el obtenido en el punto 7.5.7.
 
 ¿Coinciden? NO ¿Por qué?
-
-Porque el osciloscopio se le mide en un tiempo, mientras que el multímetro no
+No coinciden 
+Porque el osiloscopio nos da el valor pico que es de 6.88 y el Multimetro nos da el valor rms que de 4.86
 
 
 **4. VIDEO**
