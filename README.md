@@ -24,6 +24,7 @@ Estudiar y determinar en forma experimental los valores medios y eficaces en un 
 
 **2. MARCO TEORICO**
 
+![png (3)](https://user-images.githubusercontent.com/84789076/132272536-85ffaa8c-6076-4b7d-a155-0fa1c9258459.png)
 
 
 **3. MATERIALES**
